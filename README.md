@@ -1,4 +1,4 @@
-# Disclaimer for Image Manipulation Tool
+# Disclaimer
 
 This tool is provided solely for **educational and informational purposes** to demonstrate basic image encryption and decryption concepts through pixel manipulation. By using this tool, you agree to the following terms:
 
